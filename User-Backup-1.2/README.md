@@ -7,16 +7,14 @@ Comandos para executar:
 
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/User-Backup-1.2/userbackup.sh; chmod +x userbackup.sh; ./userbackup.sh
 
-==================================================================================
+================================================================================
 
 *SIN MINERIA! *SIN KEYS! *VERSION GRATUITA *SIN VIRUS TROJANO (BOTNET) *ARCHIVOS LIBERADOS (DECENCRIPTADOS)
 
-==================================================================================
+================================================================================
 
 ☆ https://t.me/admmanagerfree ☆
 =================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato
 
-[ FULL SCRIPTS ⃘⃤꙰✰ ] && VPS
 
 
