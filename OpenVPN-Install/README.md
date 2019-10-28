@@ -1,6 +1,6 @@
 ﻿# HERRAMIENTAS
 
-OpenVPN-Install
+**OpenVPN-Install**
 
 OpenVPN-Install es una versión en español del scriptt 
 
@@ -15,14 +15,18 @@ Comandos para instalar:
 
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/OpenVPN-Install/openvpn-install.sh; chmod +x openvpn-install.sh; ./openvpn-install.sh
 
-================================================================================
+```
+* SIN MINERIA! 
+* SIN KEYS! 
+* VERSION GRATUITA 
+* SIN VIRUS TROJANO (BOTNET) 
+* ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+```
 
-*SIN MINERIA! *SIN KEYS! *VERSION GRATUITA *SIN VIRUS TROJANO (BOTNET) *ARCHIVOS LIBERADOS (DECENCRIPTADOS)
-
-================================================================================
-
+```
 ☆ https://t.me/admmanagerfree ☆
-=================================================
 
+☆ https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ☆
+```
 
-
+**By: [ FULL SCRIPTS ⃘⃤꙰✰ ] VPS**
