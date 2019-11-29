@@ -29,4 +29,4 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/maste
 ☆ https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ☆
 ```
 
-**By: [ FULL SCRIPTS ⃘⃤꙰✰ ] VPS**
+**By: [ FULL SCRIPTS ⃘⃤꙰✰ ]**

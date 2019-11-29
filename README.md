@@ -17,4 +17,4 @@
 ☆ https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ☆
 ```
 
-**By: [ FULL SCRIPTS ⃘⃤꙰✰ ] VPS**
+**By: [ FULL SCRIPTS ⃘⃤꙰✰ ]**

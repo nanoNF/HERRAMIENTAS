@@ -1,4 +1,4 @@
-# HERRAMIENTAS
+﻿# HERRAMIENTAS
 
 **Capturador-IP**
 
@@ -16,9 +16,9 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/maste
 ```
 
 ```
-? https://t.me/admmanagerfree ?
+☆ https://t.me/admmanagerfree ☆
 
-? https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ?
+☆ https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ☆
 ```
 
-**By: [ FULL SCRIPTS ???? ] VPS**
+**By: [ FULL SCRIPTS ⃘⃤꙰✰ ] VPS**
